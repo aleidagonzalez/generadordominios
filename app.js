@@ -13,3 +13,6 @@ for (var i = 0; i < pronoun.length; i++) {
     }
   }
 }
+
+
+//$ node app.js para verlo en console
